@@ -1,0 +1,17 @@
+ tes file system 
+==========PRINTING FILES=============
+ Volume in drive C is WINDOWS(SSD)
+ Volume Serial Number is 125A-BBF7
+
+ Directory of C:\Users\DELL\Desktop\Cprog
+
+28/09/2024  15:21    <DIR>          .
+28/09/2024  15:21    <DIR>          ..
+28/09/2024  15:21                 0 input.txt
+28/09/2024  14:00               508 main.cpp
+28/09/2024  15:21         3.213.227 main.exe
+28/09/2024  15:21                 0 output.txt
+               4 File(s)      3.213.735 bytes
+               2 Dir(s)  21.908.480.000 bytes free
+=====================================
+File mydir does not exist
